@@ -1,2 +1,6 @@
 google-generativeai
 python-dotenv
+youtube-transcript-api
+pypdf2
+beautifulsoup4
+requests

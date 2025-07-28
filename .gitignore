@@ -4,3 +4,6 @@ venv/
 .idea/
 /.env
 /.venv/
+*.pdf
+temp_files/
+
